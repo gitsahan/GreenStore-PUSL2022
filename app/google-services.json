@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094571983583",
+    "firebase_url": "https://greenstore-9ac43-default-rtdb.firebaseio.com",
+    "project_id": "greenstore-9ac43",
+    "storage_bucket": "greenstore-9ac43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094571983583:android:73f71091550cd559a81f6a",
+        "android_client_info": {
+          "package_name": "com.kotlin.greenstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094571983583-odvriblj7j4qldh0mjmvsc1nlkqun7b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtRgqtgjIMPxwE80n6Jt4pqQGzqQWO0js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094571983583-odvriblj7j4qldh0mjmvsc1nlkqun7b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

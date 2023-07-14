@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GreenStore</string>
+    <string name="no_account">Not have an account? <b>Sign Up.</b></string>
+    <string name="visit_website">For more details, visit <b>www.greenstore.com</b></string>
+</resources>
