@@ -1,1 +1,6 @@
-# GreenStore-PUSL2022
+# Mobile-App-PUSL2022-GreenStore
+--------------------------------
+
+Developer: Sahan Karunaratne
+Type: Individual Project
+
