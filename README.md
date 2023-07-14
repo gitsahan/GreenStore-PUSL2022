@@ -2,7 +2,10 @@
 --------------------------------
 
 Developer: Sahan Karunaratne.
+
 Type: Individual Project.
+
+Year: 2022.
 
 Important Languages & Technologies:
 Kotlin, Firebase, Razor Pay (API), Google Maps (API)...
